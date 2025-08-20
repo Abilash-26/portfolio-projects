@@ -26,7 +26,7 @@
    {
     "name": "Authentication",
     "description": "A login/register form is a user interface element that allows users to either create a new account (register) or access an existing one (login) on a website or application ",
-    "tags": ["React.JS", "Node.Js", "JWT", ],
+    "tags": ["React.JS", "Node.Js", "JWT"],
     "image": "https://i.postimg.cc/RZYVss7J/Screenshot-2025-08-20-220022.png",
     "live": true,
     "github": "https://github.com/Abilash-26/Register-Login.git"
