@@ -13,7 +13,7 @@
     "tags": ["Python", "React", "Flask", "MySQL"],
     "image": "https://i.postimg.cc/NMySjDST/drowsiness.png",
     "live": true,
-    "repo": "https://github.com/Abilash-26/Drowsiness-Detection.git",
+    "repo": "https://github.com/Abilash-26/Drowsiness-Detection.git"
   },
   {
     "name": "Image Slider",
