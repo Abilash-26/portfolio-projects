@@ -22,5 +22,29 @@
     "image": "https://i.postimg.cc/zvZtXrnZ/slider.png",
     "live": true,
     "github": "https://github.com/Abilash-26/Image-Slider.git"
+  },
+   {
+    "name": "Authentication",
+    "description": "A login/register form is a user interface element that allows users to either create a new account (register) or access an existing one (login) on a website or application ",
+    "tags": ["React.JS", "Node.Js", "JWT", ],
+    "image": "https://i.postimg.cc/RZYVss7J/Screenshot-2025-08-20-220022.png",
+    "live": true,
+    "github": "https://github.com/Abilash-26/Register-Login.git"
+  },
+   {
+    "name": "Harmonix",
+    "description": "Harmonix is a Frontend music player project that focuses on  smooth playback, dynamic themesto provide a user-friendly experience. ",
+    "tags": ["React.JS", "Node.Js", "Tailwind.css"],
+    "image": "https://i.postimg.cc/5yGb7jvd/Screenshot-2025-08-20-220800.png",
+    "live": true,
+    "github": "https://github.com/Abilash-26/Harmonix.git"
+  },
+   {
+    "name": "Job Search UI",
+    "description": "Its A Job Search UI, Searches jobs bases on Role, Salary or Location ",
+    "tags": ["React.JS", "Node.Js", "Tailwind.css"],
+    "image": "https://i.postimg.cc/d1fGBmWq/Screenshot-2025-08-20-221544.png",
+    "live": true,
+    "github": "https://github.com/Abilash-26/Job-Search-Aggregator-UI.git"
   }
 ]
