@@ -10,10 +10,10 @@
  {
     "name": "Drowsiness Detection",
     "description": "AI-powered app that monitors driver alertness using webcam and triggers alarms.",
-    "tags": ['Python', 'React', 'Flask', 'MySQL'],
+    "tags": ["Python", "React", "Flask", "MySQL"],
     "image": "https://i.postimg.cc/NMySjDST/drowsiness.png",
     "live": true,
-    "repo": https://github.com/Abilash-26/Drowsiness-Detection.git",
+    "repo": "https://github.com/Abilash-26/Drowsiness-Detection.git",
   },
   {
     "name": "Image Slider",
