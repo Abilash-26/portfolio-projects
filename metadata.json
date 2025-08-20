@@ -7,12 +7,20 @@
     "repo": "https://github.com/Abilash-26/camouflaged-object-detection",
     "live": "https://live-demo-link.netlify.app/"
   },
+ {
+    "name": "Drowsiness Detection",
+    "description": "AI-powered app that monitors driver alertness using webcam and triggers alarms.",
+    "tags": ['Python', 'React', 'Flask', 'MySQL'],
+    "image": "https://i.postimg.cc/NMySjDST/drowsiness.png",
+    "live": true,
+    "repo": https://github.com/Abilash-26/Drowsiness-Detection.git",
+  },
   {
-    "name": "Another Cool Project",
-    "description": "Something awesome goes here...",
-    "tags": ["React", "Node.js", "MongoDB"],
-    "image": "https://via.placeholder.com/300",
-    "repo": "https://github.com/Abilash-26/another-cool-project",
-    "live": "https://another-demo.netlify.app/"
-  }
+    "name": "Image Slider",
+    "description": "A simple image slider built ",
+    "tags": ["HTML", "CSS", "Js"],
+    "image": "https://i.postimg.cc/zvZtXrnZ/slider.png",
+    "live": true,
+    "github": "https://github.com/Abilash-26/Image-Slider.git",
+  },
 ]
