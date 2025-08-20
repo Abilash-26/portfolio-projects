@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Camouflaged Object Detection",
+    "description": "Web app for detecting camouflaged objects in images using advanced computer vision techniques.",
+    "tags": ["Python", "ML", "HTML", "Javascript", "CSS"],
+    "image": "https://i.postimg.cc/ryJ1vf6h/object.png",
+    "repo": "https://github.com/Abilash-26/camouflaged-object-detection",
+    "live": "https://live-demo-link.netlify.app/"
+  },
+  {
+    "name": "Another Cool Project",
+    "description": "Something awesome goes here...",
+    "tags": ["React", "Node.js", "MongoDB"],
+    "image": "https://via.placeholder.com/300",
+    "repo": "https://github.com/Abilash-26/another-cool-project",
+    "live": "https://another-demo.netlify.app/"
+  }
+]
