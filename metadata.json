@@ -1,7 +1,7 @@
 [
    {
     "name": "Speak With Abi",
-    "description": "Web app for detecting camouflaged objects in images using advanced computer vision techniques.",
+    "description": "Speak With Abi is an interactive web application that allows users to engage in natural conversations with an AI assistant powered by OpenAI’s GPT model.",
     "tags": ["Javascript", "React", "HTML", "openai/gpt-3.5-turbo"],
     "image": "https://i.postimg.cc/mk34tdN2/Screenshot-2025-08-24-195804.png",
     "repo": "https://github.com/Abilash-26/SpeakwithAbi",
