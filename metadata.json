@@ -20,7 +20,7 @@
     "description": "AI-powered app that monitors driver alertness using webcam and triggers alarms.",
     "tags": ["Python", "React", "Flask", "MySQL"],
     "image": "https://i.postimg.cc/NMySjDST/drowsiness.png",
-    "live": true,
+    
     "repo": "https://github.com/Abilash-26/Drowsiness-Detection.git"
   },
   {
@@ -28,7 +28,7 @@
     "description": "A simple image slider built ",
     "tags": ["HTML", "CSS", "Js"],
     "image": "https://i.postimg.cc/zvZtXrnZ/slider.png",
-    "live": true,
+    
     "repo": "https://github.com/Abilash-26/Image-Slider.git"
   },
    {
@@ -36,7 +36,7 @@
     "description": "A login/register form is a user interface element that allows users to either create a new account (register) or access an existing one (login) on a website or application ",
     "tags": ["React.JS", "Node.Js", "JWT"],
     "image": "https://i.postimg.cc/RZYVss7J/Screenshot-2025-08-20-220022.png",
-    "live": true,
+    
     "repo": "https://github.com/Abilash-26/Register-Login.git"
   },
    {
@@ -44,7 +44,7 @@
     "description": "Harmonix is a Frontend music player project that focuses on  smooth playback, dynamic themesto provide a user-friendly experience. ",
     "tags": ["React.JS", "Node.Js", "Tailwind.css"],
     "image": "https://i.postimg.cc/5yGb7jvd/Screenshot-2025-08-20-220800.png",
-    "live": true,
+    
     "repo": "https://github.com/Abilash-26/Harmonix.git"
   },
    {
@@ -52,7 +52,7 @@
     "description": "Its A Job Search UI, Searches jobs bases on Role, Salary or Location ",
     "tags": ["React.JS", "Node.Js", "Tailwind.css"],
     "image": "https://i.postimg.cc/d1fGBmWq/Screenshot-2025-08-20-221544.png",
-    "live": true,
+    
     "repo": "https://github.com/Abilash-26/Job-Search-Aggregator-UI.git"
   }
 ]
